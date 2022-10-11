@@ -28,7 +28,7 @@ footer {
   min-height: 200px;
 }
 
-/* Ska ni sätta grid-area på en class, så måste ni troligtvis sätta ett id="någotidhär" på elementet */
+/* Ska ni sätta grid-area på en specifik HTML-tag, så måste ni troligtvis sätta ett id="någotidhär" på den */
 /* id refereras med # istället för .  */
 /* annars får ni använda inbyggda som redan finns t.ex. header main aside som gjordes i första exemplet */
 /* Kolla exempel här [https: //developer.mozilla.org/en-US/docs/Web/CSS/grid-area#examples] */
